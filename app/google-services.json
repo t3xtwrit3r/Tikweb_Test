@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "245131293996",
+    "project_id": "tikwebtest-8c1f3",
+    "storage_bucket": "tikwebtest-8c1f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245131293996:android:ab6d5eba2b8ed451282889",
+        "android_client_info": {
+          "package_name": "com.mubin.tikweb_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245131293996-h9mco6b9756eq779to81k3ug18sbm5g9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mubin.tikweb_test",
+            "certificate_hash": "b4ebd40955f9243cc5389ca405a0ee2b76571872"
+          }
+        },
+        {
+          "client_id": "245131293996-5he5ooqpv7aludmru1fv5h910v15uikj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDS8i7sbxEZx5lMag4CQFor03Yemb9gMpA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245131293996-5he5ooqpv7aludmru1fv5h910v15uikj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
